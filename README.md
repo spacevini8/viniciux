@@ -1,0 +1,2 @@
+# viniciux
+simple linux distro
